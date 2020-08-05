@@ -1,0 +1,6 @@
+{
+  "gasPrice": 20000000000,
+  "gasLimit": 5500000,
+  "infuraAPIKey": "Up5uvBHSCSqtOmnlhL87",
+  "network": "ropsten"
+}
